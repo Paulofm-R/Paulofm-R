@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 ## 👩🏻‍💻 Game and Web Developer
 
 I'm Paulo Rodrigues, passionate about game creation and with knowledge in web development. I recently graduated with a Master's degree in Computer Engineering - Games and Graphic and Integrated Systems.
